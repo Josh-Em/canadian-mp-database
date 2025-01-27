@@ -2,7 +2,8 @@
 
 This project demonstrates how to use AI to create a structured database of Canadian Members of Parliament (MPs) by scraping their Wikipedia pages and analyzing the resulting dataset. The pipeline extracts information such as educational backgrounds, previous occupations, policy stances, and controversial statements.
 
-[![Canadian MP Data Analysis using AI](https://img.youtube.com/vi/aD3IOG5772s/0.jpg)](https://www.youtube.com/watch?v=aD3IOG5772s)
+[![Watch the Tutorial](https://img.youtube.com/vi/aD3IOG5772s/maxresdefault.jpg)](https://www.youtube.com/watch?v=aD3IOG5772s)
+
 
 ## Overview
 
