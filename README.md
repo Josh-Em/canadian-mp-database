@@ -35,7 +35,7 @@ The notebook includes visualizations for:
 ## Relevant Resources
 
 - [Tutorial Video](https://www.youtube.com/watch?v=VIDEO_ID)
-- [House of Commons Members List](https://www.ourcommons.ca/members/en)
+- [House of Commons Members List]((https://www.ourcommons.ca/members/en/search))
 - [Hansard Transcripts](https://www.ourcommons.ca/DocumentViewer/en/house/latest/hansard)
 - [OpenAI API Documentation](https://platform.openai.com/docs/api-reference)
 - [Anthropic Console](https://console.anthropic.com/) - Used for pair programming
